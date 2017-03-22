@@ -9,7 +9,10 @@
   "author": "Ankit",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.1.5",
     "mongodb": "^2.2.25",
-    "mongoose": "^4.9.1"
+    "mongoose": "^4.9.1",
+    "promise": "^7.1.1",
+    "q": "^1.5.0"
   }
 }
